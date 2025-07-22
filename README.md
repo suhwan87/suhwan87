@@ -2,7 +2,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Tech Stack ✨</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ Tech Stack </h2>
   <p>
     <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
@@ -20,7 +20,7 @@
 
 <!-- Tools -->
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tools 🛠️</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tools </h2>
   <p>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
